@@ -1,0 +1,9 @@
+Задание: Сборка и запуск приложения ToDoList-master на эмуляторе и реальном устройстве
+
+ОткрытьпроектToDoList-master в Android Studio:
+
+
+Запустить приложение ToDoList-master на эмуляторе:
+
+Запустить приложение ToDoList-master на реальном устройстве Huawei P20 Lite ANX-LX1, Android 9:
+
